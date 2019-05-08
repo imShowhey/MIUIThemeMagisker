@@ -1,8 +1,8 @@
 # MIUIThemeMagisker
 This project allows you to download any MIUI theme and make it into a Magisk module.
 
-PROJECT QUOTE THE FOLLOWING PROJECTS:<br />
-<a href="https://github.com/vcheckzen/MIUIThemeDownloader">vcheckzen/MIUIThemeDownloader</a><br />
+MIUIThemeMagisker QUOTE THE FOLLOWING PROJECTS:<br />
+<a href="https://github.com/cjybyjk/MIUI_Theme_Magiskizer">cjybyjk/MIUI_Theme_Magiskizer</a><br />
 <a href="https://github.com/XiaomuSoftware/miuitheme">XiaomuSoftware/miuitheme</a>
 <br />
 
@@ -10,5 +10,5 @@ PROJECT QUOTE THE FOLLOWING PROJECTS:<br />
 这个项目允许你下载任意MIUI主题并将其制作成为Magisk模块。
 
 项目引用了 <br />
-<a href="https://github.com/vcheckzen/MIUIThemeDownloader">vcheckzen/MIUIThemeDownloader</a><br />
+<a href="https://github.com/cjybyjk/MIUI_Theme_Magiskizer">cjybyjk/MIUI_Theme_Magiskizer</a><br />
 <a href="https://github.com/XiaomuSoftware/miuitheme">XiaomuSoftware/miuitheme</a>
