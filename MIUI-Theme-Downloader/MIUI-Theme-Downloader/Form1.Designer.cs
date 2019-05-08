@@ -46,9 +46,9 @@ namespace MIUIThemeDownloader
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
+            this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
-            this.label4 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -221,6 +221,15 @@ namespace MIUIThemeDownloader
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "主题列表";
             // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(19, 190);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(49, 14);
+            this.label4.TabIndex = 13;
+            this.label4.Text = "Tips：";
+            // 
             // label5
             // 
             this.label5.AutoSize = true;
@@ -242,15 +251,6 @@ namespace MIUIThemeDownloader
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "如果能在Github上给个Star我将万分感谢！【点这儿】";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LinkLabel1_LinkClicked);
-            // 
-            // label4
-            // 
-            this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(19, 190);
-            this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(49, 14);
-            this.label4.TabIndex = 13;
-            this.label4.Text = "Tips：";
             // 
             // Form1
             // 

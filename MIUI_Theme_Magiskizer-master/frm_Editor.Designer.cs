@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frm_Editor));
             this.pictureBox1 = new System.Windows.Forms.PictureBox();
             this.contextLst = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.新建文件夹ToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
@@ -175,6 +176,7 @@
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.menuStrip1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MainMenuStrip = this.menuStrip1;
             this.Name = "frm_Editor";
             this.Text = "组件编辑器";
