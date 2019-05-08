@@ -649,18 +649,19 @@
     <value>NoControl</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>23, 402</value>
+    <value>23, 389</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>518, 55</value>
+    <value>518, 68</value>
   </data>
   <data name="label2.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>•可使用Ctrl多选、Shift连选或点击某项后框选。
-•点击&gt;&gt;&gt;或&lt;&lt;&lt;按钮可以将组件从主题列表或模块列表添加或删除。
-•可将多套主题的不同组件同时添加进模块组件列表，从而实现“混搭”效果。
+    <value>•可使用Ctrl多选、Shift连选或点击某项后框选；
+•点击&gt;&gt;&gt;或&lt;&lt;&lt;按钮可以将组件从主题列表或模块列表添加或删除；
+•可将多套主题的不同组件同时添加进模块组件列表，从而实现“混搭”效果；
+•双击模块组件中的项，可以显示其结构及预览。
 •切勿将不同主题的相同组件同时添加，否则可能会引发意想不到的后果。</value>
   </data>
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
