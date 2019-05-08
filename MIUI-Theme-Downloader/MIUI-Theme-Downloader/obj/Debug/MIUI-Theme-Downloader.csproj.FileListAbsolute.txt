@@ -25,3 +25,12 @@ E:\MIUITheme\MIUI-Theme-Downloader\MIUI-Theme-Downloader\obj\Debug\MIUI-Theme-Do
 E:\MIUITheme\MIUI-Theme-Downloader\MIUI-Theme-Downloader\obj\Debug\MIUI-Theme-Downloader.csproj.CoreCompileInputs.cache
 E:\MIUITheme\MIUI-Theme-Downloader\MIUI-Theme-Downloader\obj\Debug\MIUIThemeDownloader.exe
 E:\MIUITheme\MIUI-Theme-Downloader\MIUI-Theme-Downloader\obj\Debug\MIUIThemeDownloader.pdb
+E:\MIUIThemeMagisker\MIUIThemeMagisker\MIUI-Theme-Downloader\MIUI-Theme-Downloader\bin\Debug\MIUIThemeDownloader.exe
+E:\MIUIThemeMagisker\MIUIThemeMagisker\MIUI-Theme-Downloader\MIUI-Theme-Downloader\bin\Debug\MIUIThemeDownloader.pdb
+E:\MIUIThemeMagisker\MIUIThemeMagisker\MIUI-Theme-Downloader\MIUI-Theme-Downloader\obj\Debug\MIUI-Theme-Downloader.csprojAssemblyReference.cache
+E:\MIUIThemeMagisker\MIUIThemeMagisker\MIUI-Theme-Downloader\MIUI-Theme-Downloader\obj\Debug\MIUIThemeDownloader.Form1.resources
+E:\MIUIThemeMagisker\MIUIThemeMagisker\MIUI-Theme-Downloader\MIUI-Theme-Downloader\obj\Debug\MIUIThemeDownloader.Properties.Resources.resources
+E:\MIUIThemeMagisker\MIUIThemeMagisker\MIUI-Theme-Downloader\MIUI-Theme-Downloader\obj\Debug\MIUI-Theme-Downloader.csproj.GenerateResource.cache
+E:\MIUIThemeMagisker\MIUIThemeMagisker\MIUI-Theme-Downloader\MIUI-Theme-Downloader\obj\Debug\MIUI-Theme-Downloader.csproj.CoreCompileInputs.cache
+E:\MIUIThemeMagisker\MIUIThemeMagisker\MIUI-Theme-Downloader\MIUI-Theme-Downloader\obj\Debug\MIUIThemeDownloader.exe
+E:\MIUIThemeMagisker\MIUIThemeMagisker\MIUI-Theme-Downloader\MIUI-Theme-Downloader\obj\Debug\MIUIThemeDownloader.pdb

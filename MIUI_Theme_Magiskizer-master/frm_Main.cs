@@ -326,5 +326,10 @@ namespace MIUI_Theme_Magiskizer
             if (lstModuleAdd.SelectedItems.Count != 1) return;
             editUnit(magiskThemePath + @"\" + lstModuleAdd.SelectedItems[0].ToString());
         }
+
+        private void LinkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/imShowhey/MIUIThemeMagisker");
+        }
     }
 }

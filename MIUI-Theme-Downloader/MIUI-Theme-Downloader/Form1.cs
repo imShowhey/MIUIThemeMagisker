@@ -151,5 +151,10 @@ namespace MIUIThemeDownloader
                 //MessageBox.Show(listBox1.SelectedItem.ToString());
             }
         }
+
+        private void LinkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            System.Diagnostics.Process.Start("https://github.com/imShowhey/MIUIThemeMagisker");
+        }
     }
 }

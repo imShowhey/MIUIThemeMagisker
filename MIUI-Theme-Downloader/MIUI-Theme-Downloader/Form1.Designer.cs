@@ -47,6 +47,8 @@ namespace MIUIThemeDownloader
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.groupBox3 = new System.Windows.Forms.GroupBox();
             this.label5 = new System.Windows.Forms.Label();
+            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
+            this.label4 = new System.Windows.Forms.Label();
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             this.groupBox3.SuspendLayout();
@@ -187,7 +189,7 @@ namespace MIUIThemeDownloader
             this.groupBox1.Controls.Add(this.btn_DeCodeAndDwn);
             this.groupBox1.Controls.Add(this.label3);
             this.groupBox1.Controls.Add(this.progressBar1);
-            this.groupBox1.Location = new System.Drawing.Point(12, 12);
+            this.groupBox1.Location = new System.Drawing.Point(21, 21);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(645, 172);
             this.groupBox1.TabIndex = 12;
@@ -199,7 +201,7 @@ namespace MIUIThemeDownloader
             this.groupBox2.Controls.Add(this.btn_dwnMtzWithDefaultBrowser);
             this.groupBox2.Controls.Add(this.btn_onlyDeCode);
             this.groupBox2.Controls.Add(this.btn_openMiuiThemeStore);
-            this.groupBox2.Location = new System.Drawing.Point(672, 12);
+            this.groupBox2.Location = new System.Drawing.Point(681, 21);
             this.groupBox2.Name = "groupBox2";
             this.groupBox2.Size = new System.Drawing.Size(220, 172);
             this.groupBox2.TabIndex = 13;
@@ -208,12 +210,13 @@ namespace MIUIThemeDownloader
             // 
             // groupBox3
             // 
+            this.groupBox3.Controls.Add(this.label4);
             this.groupBox3.Controls.Add(this.label5);
             this.groupBox3.Controls.Add(this.btn_flashDir);
             this.groupBox3.Controls.Add(this.listBox1);
-            this.groupBox3.Location = new System.Drawing.Point(12, 190);
+            this.groupBox3.Location = new System.Drawing.Point(21, 199);
             this.groupBox3.Name = "groupBox3";
-            this.groupBox3.Size = new System.Drawing.Size(880, 208);
+            this.groupBox3.Size = new System.Drawing.Size(880, 225);
             this.groupBox3.TabIndex = 13;
             this.groupBox3.TabStop = false;
             this.groupBox3.Text = "主题列表";
@@ -222,17 +225,39 @@ namespace MIUIThemeDownloader
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("宋体", 9F);
-            this.label5.Location = new System.Drawing.Point(20, 185);
+            this.label5.Location = new System.Drawing.Point(70, 190);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(269, 12);
+            this.label5.Size = new System.Drawing.Size(575, 24);
             this.label5.TabIndex = 12;
-            this.label5.Text = "Tips：双击项即可进入主题Magisk模块化打包过程";
+            this.label5.Text = "双击项即可进入主题Magisk模块化打包过程；\r\n你也可以将从别处得到的mtz文件放入Download文件夹内，点击刷新目录按钮后即可将该文件在列表中显示。";
+            // 
+            // linkLabel1
+            // 
+            this.linkLabel1.AutoSize = true;
+            this.linkLabel1.ImeMode = System.Windows.Forms.ImeMode.NoControl;
+            this.linkLabel1.Location = new System.Drawing.Point(18, 430);
+            this.linkLabel1.Name = "linkLabel1";
+            this.linkLabel1.Size = new System.Drawing.Size(343, 14);
+            this.linkLabel1.TabIndex = 26;
+            this.linkLabel1.TabStop = true;
+            this.linkLabel1.Text = "如果能在Github上给个Star我将万分感谢！【点这儿】";
+            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.LinkLabel1_LinkClicked);
+            // 
+            // label4
+            // 
+            this.label4.AutoSize = true;
+            this.label4.Location = new System.Drawing.Point(19, 190);
+            this.label4.Name = "label4";
+            this.label4.Size = new System.Drawing.Size(49, 14);
+            this.label4.TabIndex = 13;
+            this.label4.Text = "Tips：";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(903, 408);
+            this.ClientSize = new System.Drawing.Size(920, 462);
+            this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox1);
@@ -248,6 +273,7 @@ namespace MIUIThemeDownloader
             this.groupBox3.ResumeLayout(false);
             this.groupBox3.PerformLayout();
             this.ResumeLayout(false);
+            this.PerformLayout();
 
         }
 
@@ -269,6 +295,8 @@ namespace MIUIThemeDownloader
         private System.Windows.Forms.GroupBox groupBox2;
         private System.Windows.Forms.GroupBox groupBox3;
         private System.Windows.Forms.Label label5;
+        private System.Windows.Forms.LinkLabel linkLabel1;
+        private System.Windows.Forms.Label label4;
     }
 }
 

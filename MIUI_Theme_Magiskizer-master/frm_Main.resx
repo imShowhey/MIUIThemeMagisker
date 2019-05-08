@@ -126,7 +126,7 @@
     <value>9, 22</value>
   </data>
   <data name="lstThemes.Size" type="System.Drawing.Size, System.Drawing">
-    <value>191, 329</value>
+    <value>191, 381</value>
   </data>
   <data name="lstThemes.TabIndex" type="System.Int32, mscorlib">
     <value>0</value>
@@ -144,10 +144,10 @@
     <value>0</value>
   </data>
   <data name="btnAdd.Location" type="System.Drawing.Point, System.Drawing">
-    <value>30, 457</value>
+    <value>9, 412</value>
   </data>
   <data name="btnAdd.Size" type="System.Drawing.Size, System.Drawing">
-    <value>86, 24</value>
+    <value>86, 39</value>
   </data>
   <data name="btnAdd.TabIndex" type="System.Int32, mscorlib">
     <value>1</value>
@@ -162,16 +162,16 @@
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btnAdd.Parent" xml:space="preserve">
-    <value>$this</value>
+    <value>groupBox1</value>
   </data>
   <data name="&gt;&gt;btnAdd.ZOrder" xml:space="preserve">
-    <value>18</value>
+    <value>1</value>
   </data>
   <data name="btnRemove.Location" type="System.Drawing.Point, System.Drawing">
-    <value>135, 457</value>
+    <value>114, 412</value>
   </data>
   <data name="btnRemove.Size" type="System.Drawing.Size, System.Drawing">
-    <value>86, 24</value>
+    <value>86, 39</value>
   </data>
   <data name="btnRemove.TabIndex" type="System.Int32, mscorlib">
     <value>2</value>
@@ -186,10 +186,10 @@
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btnRemove.Parent" xml:space="preserve">
-    <value>$this</value>
+    <value>groupBox1</value>
   </data>
   <data name="&gt;&gt;btnRemove.ZOrder" xml:space="preserve">
-    <value>17</value>
+    <value>2</value>
   </data>
   <data name="lstModules.HorizontalScrollbar" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -240,7 +240,7 @@
     <value>0</value>
   </data>
   <data name="btnAddModule.Location" type="System.Drawing.Point, System.Drawing">
-    <value>466, 207</value>
+    <value>249, 163</value>
   </data>
   <data name="btnAddModule.Size" type="System.Drawing.Size, System.Drawing">
     <value>65, 29</value>
@@ -258,13 +258,13 @@
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btnAddModule.Parent" xml:space="preserve">
-    <value>$this</value>
+    <value>groupBox4</value>
   </data>
   <data name="&gt;&gt;btnAddModule.ZOrder" xml:space="preserve">
-    <value>16</value>
+    <value>2</value>
   </data>
   <data name="btnRemoveModule.Location" type="System.Drawing.Point, System.Drawing">
-    <value>466, 243</value>
+    <value>249, 220</value>
   </data>
   <data name="btnRemoveModule.Size" type="System.Drawing.Size, System.Drawing">
     <value>65, 29</value>
@@ -282,16 +282,16 @@
     <value>System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;btnRemoveModule.Parent" xml:space="preserve">
-    <value>$this</value>
+    <value>groupBox4</value>
   </data>
   <data name="&gt;&gt;btnRemoveModule.ZOrder" xml:space="preserve">
-    <value>15</value>
+    <value>4</value>
   </data>
   <data name="txtModuleName.Location" type="System.Drawing.Point, System.Drawing">
-    <value>84, 13</value>
+    <value>92, 17</value>
   </data>
   <data name="txtModuleName.Size" type="System.Drawing.Size, System.Drawing">
-    <value>266, 23</value>
+    <value>312, 23</value>
   </data>
   <data name="txtModuleName.TabIndex" type="System.Int32, mscorlib">
     <value>7</value>
@@ -306,13 +306,13 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtModuleName.ZOrder" xml:space="preserve">
-    <value>14</value>
+    <value>13</value>
   </data>
   <data name="lblText1.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="lblText1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 17</value>
+    <value>23, 21</value>
   </data>
   <data name="lblText1.Size" type="System.Drawing.Size, System.Drawing">
     <value>63, 14</value>
@@ -333,13 +333,13 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblText1.ZOrder" xml:space="preserve">
-    <value>13</value>
+    <value>12</value>
   </data>
   <data name="lblText2.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
   </data>
   <data name="lblText2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>358, 17</value>
+    <value>410, 21</value>
   </data>
   <data name="lblText2.Size" type="System.Drawing.Size, System.Drawing">
     <value>63, 14</value>
@@ -360,10 +360,10 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblText2.ZOrder" xml:space="preserve">
-    <value>12</value>
+    <value>11</value>
   </data>
   <data name="txtModuleAuthor.Location" type="System.Drawing.Point, System.Drawing">
-    <value>427, 13</value>
+    <value>479, 17</value>
   </data>
   <data name="txtModuleAuthor.Size" type="System.Drawing.Size, System.Drawing">
     <value>158, 23</value>
@@ -381,19 +381,19 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtModuleAuthor.ZOrder" xml:space="preserve">
-    <value>11</value>
+    <value>10</value>
   </data>
   <data name="btnGenerate.Location" type="System.Drawing.Point, System.Drawing">
-    <value>648, 495</value>
+    <value>669, 566</value>
   </data>
   <data name="btnGenerate.Size" type="System.Drawing.Size, System.Drawing">
-    <value>119, 24</value>
+    <value>160, 40</value>
   </data>
   <data name="btnGenerate.TabIndex" type="System.Int32, mscorlib">
     <value>11</value>
   </data>
   <data name="btnGenerate.Text" xml:space="preserve">
-    <value>保存</value>
+    <value>保存为Magisk模块</value>
   </data>
   <data name="&gt;&gt;btnGenerate.Name" xml:space="preserve">
     <value>btnGenerate</value>
@@ -405,14 +405,14 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;btnGenerate.ZOrder" xml:space="preserve">
-    <value>10</value>
+    <value>9</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="lblStatus.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="lblStatus.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 501</value>
+    <value>32, 580</value>
   </data>
   <data name="lblStatus.Size" type="System.Drawing.Size, System.Drawing">
     <value>212, 15</value>
@@ -433,7 +433,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblStatus.ZOrder" xml:space="preserve">
-    <value>8</value>
+    <value>7</value>
   </data>
   <metadata name="openFile.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
     <value>17, 17</value>
@@ -451,7 +451,7 @@
     <value>True</value>
   </data>
   <data name="lblText6.Location" type="System.Drawing.Point, System.Drawing">
-    <value>15, 48</value>
+    <value>23, 52</value>
   </data>
   <data name="lblText6.Size" type="System.Drawing.Size, System.Drawing">
     <value>63, 14</value>
@@ -472,13 +472,13 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblText6.ZOrder" xml:space="preserve">
-    <value>7</value>
+    <value>6</value>
   </data>
   <data name="txtDescription.Location" type="System.Drawing.Point, System.Drawing">
-    <value>84, 45</value>
+    <value>92, 49</value>
   </data>
   <data name="txtDescription.Size" type="System.Drawing.Size, System.Drawing">
-    <value>682, 23</value>
+    <value>737, 23</value>
   </data>
   <data name="txtDescription.TabIndex" type="System.Int32, mscorlib">
     <value>18</value>
@@ -493,7 +493,7 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtDescription.ZOrder" xml:space="preserve">
-    <value>6</value>
+    <value>5</value>
   </data>
   <data name="lblText7.AutoSize" type="System.Boolean, mscorlib">
     <value>True</value>
@@ -502,7 +502,7 @@
     <value>NoControl</value>
   </data>
   <data name="lblText7.Location" type="System.Drawing.Point, System.Drawing">
-    <value>593, 17</value>
+    <value>645, 21</value>
   </data>
   <data name="lblText7.Size" type="System.Drawing.Size, System.Drawing">
     <value>63, 14</value>
@@ -523,13 +523,13 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;lblText7.ZOrder" xml:space="preserve">
-    <value>5</value>
+    <value>4</value>
   </data>
   <data name="txtVersion.Location" type="System.Drawing.Point, System.Drawing">
-    <value>661, 13</value>
+    <value>713, 17</value>
   </data>
   <data name="txtVersion.Size" type="System.Drawing.Size, System.Drawing">
-    <value>104, 23</value>
+    <value>116, 23</value>
   </data>
   <data name="txtVersion.TabIndex" type="System.Int32, mscorlib">
     <value>20</value>
@@ -544,16 +544,16 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;txtVersion.ZOrder" xml:space="preserve">
-    <value>4</value>
+    <value>3</value>
   </data>
   <data name="progressBar.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="progressBar.Location" type="System.Drawing.Point, System.Drawing">
-    <value>235, 499</value>
+    <value>250, 574</value>
   </data>
   <data name="progressBar.Size" type="System.Drawing.Size, System.Drawing">
-    <value>387, 18</value>
+    <value>396, 26</value>
   </data>
   <data name="progressBar.TabIndex" type="System.Int32, mscorlib">
     <value>12</value>
@@ -568,13 +568,13 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;progressBar.ZOrder" xml:space="preserve">
-    <value>9</value>
+    <value>8</value>
   </data>
   <data name="groupBox1.Location" type="System.Drawing.Point, System.Drawing">
-    <value>18, 83</value>
+    <value>26, 87</value>
   </data>
   <data name="groupBox1.Size" type="System.Drawing.Size, System.Drawing">
-    <value>210, 364</value>
+    <value>210, 462</value>
   </data>
   <data name="groupBox1.TabIndex" type="System.Int32, mscorlib">
     <value>21</value>
@@ -592,10 +592,10 @@
     <value>$this</value>
   </data>
   <data name="&gt;&gt;groupBox1.ZOrder" xml:space="preserve">
-    <value>3</value>
+    <value>2</value>
   </data>
   <data name="groupBox2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>235, 83</value>
+    <value>18, 22</value>
   </data>
   <data name="groupBox2.Size" type="System.Drawing.Size, System.Drawing">
     <value>220, 364</value>
@@ -613,13 +613,13 @@
     <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;groupBox2.Parent" xml:space="preserve">
-    <value>$this</value>
+    <value>groupBox4</value>
   </data>
   <data name="&gt;&gt;groupBox2.ZOrder" xml:space="preserve">
-    <value>2</value>
+    <value>0</value>
   </data>
   <data name="groupBox3.Location" type="System.Drawing.Point, System.Drawing">
-    <value>539, 83</value>
+    <value>322, 22</value>
   </data>
   <data name="groupBox3.Size" type="System.Drawing.Size, System.Drawing">
     <value>229, 364</value>
@@ -637,25 +637,31 @@
     <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;groupBox3.Parent" xml:space="preserve">
-    <value>$this</value>
+    <value>groupBox4</value>
   </data>
   <data name="&gt;&gt;groupBox3.ZOrder" xml:space="preserve">
-    <value>1</value>
+    <value>3</value>
+  </data>
+  <data name="label2.Font" type="System.Drawing.Font, System.Drawing">
+    <value>宋体, 9pt</value>
   </data>
   <data name="label2.ImeMode" type="System.Windows.Forms.ImeMode, System.Windows.Forms">
     <value>NoControl</value>
   </data>
   <data name="label2.Location" type="System.Drawing.Point, System.Drawing">
-    <value>342, 463</value>
+    <value>23, 402</value>
   </data>
   <data name="label2.Size" type="System.Drawing.Size, System.Drawing">
-    <value>338, 17</value>
+    <value>518, 55</value>
   </data>
   <data name="label2.TabIndex" type="System.Int32, mscorlib">
     <value>15</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>可使用Ctrl多选、Shift连选或点击某项后框选</value>
+    <value>•可使用Ctrl多选、Shift连选或点击某项后框选。
+•点击&gt;&gt;&gt;或&lt;&lt;&lt;按钮可以将组件从主题列表或模块列表添加或删除。
+•可将多套主题的不同组件同时添加进模块组件列表，从而实现“混搭”效果。
+•切勿将不同主题的相同组件同时添加，否则可能会引发意想不到的后果。</value>
   </data>
   <data name="&gt;&gt;label2.Name" xml:space="preserve">
     <value>label2</value>
@@ -664,9 +670,60 @@
     <value>System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
   <data name="&gt;&gt;label2.Parent" xml:space="preserve">
-    <value>$this</value>
+    <value>groupBox4</value>
   </data>
   <data name="&gt;&gt;label2.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="groupBox4.Location" type="System.Drawing.Point, System.Drawing">
+    <value>255, 87</value>
+  </data>
+  <data name="groupBox4.Size" type="System.Drawing.Size, System.Drawing">
+    <value>574, 462</value>
+  </data>
+  <data name="groupBox4.TabIndex" type="System.Int32, mscorlib">
+    <value>24</value>
+  </data>
+  <data name="groupBox4.Text" xml:space="preserve">
+    <value>操作区</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Name" xml:space="preserve">
+    <value>groupBox4</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Type" xml:space="preserve">
+    <value>System.Windows.Forms.GroupBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;groupBox4.ZOrder" xml:space="preserve">
+    <value>1</value>
+  </data>
+  <data name="linkLabel1.AutoSize" type="System.Boolean, mscorlib">
+    <value>True</value>
+  </data>
+  <data name="linkLabel1.Location" type="System.Drawing.Point, System.Drawing">
+    <value>23, 616</value>
+  </data>
+  <data name="linkLabel1.Size" type="System.Drawing.Size, System.Drawing">
+    <value>343, 14</value>
+  </data>
+  <data name="linkLabel1.TabIndex" type="System.Int32, mscorlib">
+    <value>25</value>
+  </data>
+  <data name="linkLabel1.Text" xml:space="preserve">
+    <value>如果能在Github上给个Star我将万分感谢！【点这儿】</value>
+  </data>
+  <data name="&gt;&gt;linkLabel1.Name" xml:space="preserve">
+    <value>linkLabel1</value>
+  </data>
+  <data name="&gt;&gt;linkLabel1.Type" xml:space="preserve">
+    <value>System.Windows.Forms.LinkLabel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
+  <data name="&gt;&gt;linkLabel1.Parent" xml:space="preserve">
+    <value>$this</value>
+  </data>
+  <data name="&gt;&gt;linkLabel1.ZOrder" xml:space="preserve">
     <value>0</value>
   </data>
   <metadata name="$this.Localizable" type="System.Boolean, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
@@ -679,7 +736,7 @@
     <value>7, 13</value>
   </data>
   <data name="$this.ClientSize" type="System.Drawing.Size, System.Drawing">
-    <value>783, 534</value>
+    <value>855, 639</value>
   </data>
   <data name="$this.Font" type="System.Drawing.Font, System.Drawing">
     <value>宋体, 10pt</value>
